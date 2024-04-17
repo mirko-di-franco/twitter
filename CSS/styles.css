@@ -1,0 +1,26 @@
+.bgTwitter {
+    background-color: #3aa0f4 !important;
+}
+
+.twitterColor {
+    color: #3aa0f4;
+}
+
+
+#password:focus-visible {
+    outline: none;
+}
+
+.input-error {
+    box-shadow: 0 0 0 0.25rem rgba(255, 0, 0, 0.25) !important;
+    border-color: red !important;
+}
+
+.input-correct {
+    box-shadow: 0 0 0 0.25rem rgba(0, 128, 0, 0.25) !important;
+    border-color: green !important;
+}
+
+.form-control:focus {
+    box-shadow: none !important;
+}

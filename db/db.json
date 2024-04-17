@@ -1,0 +1,48 @@
+{
+  "utenti": [
+    {
+      "id": "ac37",
+      "username": "mirko",
+      "password": "mirko33A?",
+      "tweets": [
+        {
+          "tweet": "ciao4",
+          "date": "16:06"
+        },
+        {
+          "tweet": "ciao2",
+          "date": "16:06"
+        },
+        {
+          "tweet": "ciao1",
+          "date": "16:06"
+        }
+      ],
+      "avatar": "https://source.unsplash.com/50x50?avatar"
+    },
+    {
+      "id": "8855",
+      "username": "mirko",
+      "password": "mirko11?4ffdA",
+      "tweets": [
+        {
+          "tweet": "ciaO4",
+          "date": "16:58"
+        },
+        {
+          "tweet": "ciao3",
+          "date": "16:58"
+        },
+        {
+          "tweet": "ciao2",
+          "date": "16:58"
+        },
+        {
+          "tweet": "ciao",
+          "date": "16:58"
+        }
+      ],
+      "avatar": "https://source.unsplash.com/50x50?avatar"
+    }
+  ]
+}
